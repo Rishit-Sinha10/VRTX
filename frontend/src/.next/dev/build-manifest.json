@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/0bpb_next_dist_compiled_0nfdwi1._.js",
+      "static/chunks/0bpb_next_dist_shared_lib_194n_fy._.js",
+      "static/chunks/0bpb_next_dist_client_0z4ydro._.js",
+      "static/chunks/0bpb_next_dist_07wn-lc._.js",
+      "static/chunks/0bpb_next_app_057saxk.js",
+      "static/chunks/[next]_entry_page-loader_ts_1bxjdoa._.js",
+      "static/chunks/0bpb_react-dom_1fnpmqx._.js",
+      "static/chunks/0bpb_1m8acfa._.js",
+      "static/chunks/[root-of-the-server]__0t0g0f7._.js",
+      "static/chunks/Desktop_Next_js_football_src_pages__app_0du2_q-._.js",
+      "static/chunks/turbopack-Desktop_Next_js_football_src_pages__app_1z3z6hn._.js"
+    ],
+    "/_error": [
+      "static/chunks/0bpb_next_dist_compiled_0nfdwi1._.js",
+      "static/chunks/0bpb_next_dist_shared_lib_134wvhm._.js",
+      "static/chunks/0bpb_next_dist_client_0z4ydro._.js",
+      "static/chunks/0bpb_next_dist_1r4w1z_._.js",
+      "static/chunks/[next]_entry_page-loader_ts_0bkdz2b._.js",
+      "static/chunks/0bpb_react-dom_1fnpmqx._.js",
+      "static/chunks/0bpb_1m8acfa._.js",
+      "static/chunks/[root-of-the-server]__1_155di._.js",
+      "static/chunks/Desktop_Next_js_football_src_pages__error_0du2_q-._.js",
+      "static/chunks/turbopack-Desktop_Next_js_football_src_pages__error_0nal4n8._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0bpb_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0sxxkxm._.js",
+    "static/chunks/0bpb_next_dist_compiled_next-devtools_index_1cic97w.js",
+    "static/chunks/0bpb_next_dist_compiled_react-dom_1904klk._.js",
+    "static/chunks/0bpb_next_dist_compiled_react-server-dom-turbopack_03fv2qt._.js",
+    "static/chunks/0bpb_next_dist_compiled_0sq79xg._.js",
+    "static/chunks/0bpb_next_dist_client_164o965._.js",
+    "static/chunks/0bpb_next_dist_07lhsfh._.js",
+    "static/chunks/0bpb_@swc_helpers_cjs_013h2-y._.js",
+    "static/chunks/Desktop_Next_js_football_src_1anvha4._.js",
+    "static/chunks/turbopack-Desktop_Next_js_football_src_11j1b9r._.js"
+  ]
+}
