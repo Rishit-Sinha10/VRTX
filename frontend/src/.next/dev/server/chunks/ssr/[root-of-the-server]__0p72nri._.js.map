@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Desktop/Next.js/football/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,+KAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
-    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/DELL/Desktop/Next.js/football/src/app/page.js"],"sourcesContent":["import Image from \"next/image\";\nimport FormationBuilder from \"@/\"\nexport default function Home() {\n  return (\n    <main className=\"min-h-screen bg-gray-50 px-4 py-10\">\n      <h1 className=\"mb-6 text-center text-xl font-semibold text-gray-800\">\n        Build your lineup\n      </h1>\n      <FormationBuilder />\n    </main>\n  );\n}\n"],"names":["Home","className","FormationBuilder"],"mappings":";;;;;AAAA;;;;;;;;;AAEe,SAASA;IACtB,qBACE,mRAAC;QAAKC,WAAU;;0BACd,mRAAC;gBAAGA,WAAU;0BAAuD;;;;;;0BAGrE,mRAACC;;;;;;;;;;;AAGP"}}]
-}
